@@ -15,3 +15,12 @@ I enjoy working on team projects, tackling complex problems, and learning new te
 **Programming Languages:** C, Python, Java, Assembly  
 **Relevant Courses:** Data Structures, Algorithms, Operating Systems, Machine Learning  
 
+## 🚀 Featured Projects  
+
+Here are some of my key projects from my Computer Science degree:  
+
+- 🔹 https://github.com/yairzaider/AVL_Tree_Implementation.git – Implemented an AVL Tree with efficient insertion, deletion, and balancing in Python.  
+- 🔹 https://github.com/yairzaider/Binomial_Heap_Implementation.git – Developed a priority queue with logarithmic operations in Java.  
+- 🔹 **[SymNMF Clustering](https://github.com/yairzaider/Symmetric_Non_Negative_Matrix_Factorization.git)** – Implemented Symmetric Non-negative Matrix Factorization (SymNMF) for clustering using Python & C.  
+
+
