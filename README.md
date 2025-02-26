@@ -15,7 +15,7 @@ I enjoy working on team projects, tackling complex problems, and learning new te
 **Programming Languages:** C, Python, Java, Assembly  
 **Relevant Courses:** Data Structures, Algorithms, Operating Systems, Machine Learning  
 
-## 🚀 Featured Projects  
+**Featured Projects**
 
 Here are some of my key projects from my Computer Science degree:  
 
