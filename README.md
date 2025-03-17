@@ -17,6 +17,11 @@ I enjoy working on team projects, tackling complex problems, and learning new te
 
 **Featured Projects**
 
+Web App Personal Project :
+
+**[Guitar Store Web App](https://github.com/yairzaider/Guitar-Store.git)** -  Built a full-stack e-commerce web application for browsing and purchasing guitars. Developed the frontend using React and the backend using Node.js with SQLite.
+
+
 Here are some of my key projects from my Computer Science degree:  
 
 - 🔹 **[AVL Tree Implementation](https://github.com/yairzaider/AVL_Tree_Implementation.git)** – Implemented an AVL Tree with efficient insertion, deletion, and balancing in Python.  
